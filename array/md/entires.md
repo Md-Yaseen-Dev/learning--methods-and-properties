@@ -22,3 +22,6 @@ console.log(iterator1.next().value)
 
 ```
 
+## To know more information click the link below :- 
+
+ [entries.js](../js/entires.js)  &#8592; Cick here
