@@ -30,9 +30,9 @@ const arr1 = ["20", "8", "70"];
 
 const arr2 = ["12", "10", "15"]
 
-console.log(arr1.every(bigenough)) // return false
+console.log("this is " + arr1.every(bigenough)) // return false
 
-console.log(arr2.every(bigenough)) // return true
+console.log("this is " + arr2.every(bigenough)) // return true
 
 
 // // check if one array is a subset of another array
