@@ -1,4 +1,4 @@
-// the at() method is used to return value of an index position.
+// the at() method is used to return value of an index position / item.
 
 const arr = [1,2,3,"yaseen",5]
 

@@ -8,7 +8,9 @@
 
 const a = ["apple", "ball","cat", "dog", "eagle" ,"fan"];
 
-// console.log(a.copyWithin(2)) ;
+// console.log(a.copyWithin(3)) ;
+
+console.log(a);
 
 // here it copies first value to the the index[2] i.e apple is stored and it will continue from it.
 
@@ -20,6 +22,10 @@ const a = ["apple", "ball","cat", "dog", "eagle" ,"fan"];
 // i.e 0 is an index and finds  index-2 of that array value(cat) is stored to 0 index. and continue till end. and rest of them in their places
 
 
-console.log(a.copyWithin(1,2,3)) // first one it targets and second parameter is used to the start and third is used to end.
+console.log(a.copyWithin(1,2,6)) // first one it targets and second parameter is used to the start and third is used to end.
 
 // in simpler above ex:-  2 index value(cat) is stored in index 1 and continue to index 3 (cat)
+
+
+//  you will understand easily by this explianation i think so. 
+// 1st is used to target the position and 2nd is used to take the index position i.e value is stored in 1st . third is used to end the index value position, if we do not found remaining indexes it will return as it is.
