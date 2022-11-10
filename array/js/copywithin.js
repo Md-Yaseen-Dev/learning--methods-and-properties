@@ -1,7 +1,7 @@
 // the copywithin() method doesn't copy deep of an array to another location in the same array and returns it without modifying the length.
 
 
-//  In other words :- copywithin method is used to copy the arrays value from the  index value where address is located/intalized i.e index[0] or index[1] .and it will return the  arrays in the sequence manner to their lengths from first. to clear it watch the example below.
+//  In other words :- copywithin method is used to copy the arrays value from the  index value where address is located/intalized i.e index[0] or index[1] .and it will return the  arrays in the sequence manner to their lengths from first. to clear  watch the example below.
 
 // note it will change in the original array too.
 
