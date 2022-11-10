@@ -2,6 +2,8 @@
 
 The copywithin() method is used to target the index and start the array values. and return it without modifying its length.
 
+*Note :-* it change in the existing array 
+
 _example_
 
 ```javascript
@@ -20,8 +22,9 @@ console.log(array.copyWithin(1,3,5))
 
 //output :- ["1","4","5","4","5"]   ---- // the output is true when the above console is commented
 
+
 ```
 
 ## To know more information click the link below:-
 
-&#8594; [click-here](./js/copywithin.js)
+&#8594; [click-here](../js/copywithin.js)
