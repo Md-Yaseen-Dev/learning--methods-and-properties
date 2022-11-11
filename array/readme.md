@@ -11,5 +11,10 @@
 - -> [array.fill](./md/fill.md)
 
 - -> [array.filter](./md/filter.md)
+
  - -> [array.find](./md/find.md)
+
+ - -> [array.findIndex](./md/findindex.md)
+
+  - -> [array.findLast](./md/findLast.md)
 
