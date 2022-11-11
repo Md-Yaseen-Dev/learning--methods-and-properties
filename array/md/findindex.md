@@ -18,4 +18,4 @@ console.log(arr.findIndex(largenum))
 
 ## To know more information click the link below :- 
 
-&#8594; [click-here](../js/every.js)  &#8594; for filter.js
+&#8594; [click-here](../js/findindex.js)  &#8594; for findIndex.js
