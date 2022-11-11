@@ -17,6 +17,6 @@ console.log(arr.every(fn)) // return true
 
 ## To know more information click the link below :-
 
- &#8594; [click-here](../js/every.js)  &#8594; every.js
+ &#8594; [click-here](../js/every.js)  &#8594; for every.js
 
     
