@@ -19,3 +19,7 @@
 - -> [array.findLast](./md/findLast.md)
 
 - -> [array.findLastIndex](./md/findLastIndex.md)
+
+- -> [array.flat](./md/flat.md)
+
+- -> [array.flatMap](./md/flatmap.md)
