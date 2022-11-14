@@ -16,4 +16,4 @@ array.forEach((element) => console.log(element)); //output:- 2,
 
 ## To know more information click the link below :-
 
-&#8594; [click-here](../js/forEach.js) &#8594; for forEach.js
+* > `array.forEach() in js ` &#8594;[Click-Here](../js/forEach.js)
