@@ -8,7 +8,7 @@
 
 const a = ["apple", "ball","cat", "dog", "eagle" ,"fan"];
 
-// console.log(a.copyWithin(3)) ;
+// console.log(a.copyWithin(3)) ; it returns from first.
 
 console.log(a);
 
