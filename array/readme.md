@@ -23,3 +23,5 @@
 - -> [array.flat](./md/flat.md)
 
 - -> [array.flatMap](./md/flatmap.md)
+
+- -> [array.forEach](./md/forEach.md)
