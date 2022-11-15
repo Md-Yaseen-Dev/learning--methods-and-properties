@@ -10,7 +10,13 @@ console.log(Array.from("foo"));
 // ouput:- ["f" "o" "o"]
 
 ```
+*Note:-* 
+* Array.from() never creates a sparse arrays.
 
-##  for more information Click the link the below :-
+* if the arraylike object is missing some index properties they become undefined in the new array.
 
-* > `array.from() in js ` &#8594; [Click-Here](../js/from.js)
+
+
+ ## for more information Click the link the below :-
+
+ * > `array.from() in js ` &#8594; [Click-Here](../js/from.js) 
