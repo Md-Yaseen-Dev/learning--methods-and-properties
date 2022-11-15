@@ -13,4 +13,4 @@ console.log(Array.from("foo"));
 
 ##  for more information Click the link the below :-
 
-* > `array.from() in js ` &#8594;[Click-Here](../js/from.js)
+* > `array.from() in js ` &#8594; [Click-Here](../js/from.js)
