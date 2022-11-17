@@ -3,9 +3,10 @@
 
 const array = [2, 3, 4, 5, 7];
 
+console.log("before: " + array); 
 console.log(array.fill(1, 2, 3));
 
-console.log(array);
+console.log("after :- " + array); // it will change in exisiting array.
 // fill methods contains 3 parameters and little bit of different from copywithin.
 
 //  1st parmeter is used the value to fill the array.

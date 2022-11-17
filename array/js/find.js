@@ -3,7 +3,7 @@
 
 const arr = [1, 3, 4, 10, 34, 38];
 
-console.log(arr.find(element => element > 10));
+console.log(arr.find(element =>element > 4));
 
 
 // parameters
@@ -47,7 +47,7 @@ function isprime(element, index, array) {
     return element > 1
 }
 
-console.log([4, 6, 8, 12, 16, 35].find(isprime));
+console.log([4, 6, 8, 12, 16, 35].find(isprime)); //undefined ---no prime numbers
 console.log([4, 6, 5, 11, 7, 35].find(isprime));
 
 
